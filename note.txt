@@ -1,0 +1,24 @@
+Buổi 1
+- jsx 
+- spa
+- component
+    + stateful component (class)
+    + stateless component (function)
+
+- 5 component
+    - bai1/index
+        + header 
+        + navbar
+        + content 
+        + footer
+
+    - bai3
+        + header
+        + carousel 
+        + wwd 
+        + contact 
+        + list 
+            + item
+            + item
+            + item 
+        + footer 

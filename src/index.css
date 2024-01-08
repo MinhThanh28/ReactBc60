@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* .header {
+  background-color: red;
+  color: yellow;
+}
+.footer {
+  background-color: yellow;
+  color: red;
+}
+
+.navbar{
+  background-color: red;
+  color: yellow;
+  width: 30%;
+}
+.content{
+  background-color: blue;
+  color: white;
+  width: 70%;
+}
+.flex{
+  display: flex;
+  justify-content: space-between;
+} */
+
