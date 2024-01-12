@@ -22,3 +22,8 @@ Buổi 1
             + item
             + item 
         + footer 
+Buổi 2
+- rendering element
+- handling events: onClick
+- state : nếu state thay đổi thì render chạy lại
+- list key
