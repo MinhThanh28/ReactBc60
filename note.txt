@@ -27,3 +27,9 @@ Buổi 2
 - handling events: onClick
 - state : nếu state thay đổi thì render chạy lại
 - list key
+
+Buổi 3:
+
+- Comunicate:
+    + props: truyền dât từ component cha => component con 
+    

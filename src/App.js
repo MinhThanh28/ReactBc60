@@ -1,7 +1,9 @@
-import './App.css';
-import ExampleCar from './example-car';
-import ListKeys from './list-key';
-import State from './state';
+import "./App.css";
+import LiftingStateUpCart from "./shopping-cart";
+// import Comunicate from './communicate';
+// import ExampleCar from './example-car';
+// import ListKeys from './list-key';
+// import State from './state';
 // import HandlingEvents from './handling-events';
 // import RenderingElements from './rendering-elements';
 // import Baitap1 from './baitap1'
@@ -19,7 +21,9 @@ function App() {
       {/* <HandlingEvents /> */}
       {/* <State /> */}
       {/* <ExampleCar /> */}
-      <ListKeys />
+      {/* <ListKeys /> */}
+      {/* <Comunicate /> */}
+      <LiftingStateUpCart />
     </>
   );
 }
