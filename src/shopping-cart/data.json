@@ -8,7 +8,7 @@
     "cameraSau": "Chính 48 MP & Phụ 8 MP, 5 MP",
     "ram": "4 GB",
     "rom": "64 GB",
-    "giaBan": 5700000,
+    "giaBan": 4000,
     "hinhAnh": "./img/vsphone.jpg"
   },
 
@@ -21,7 +21,7 @@
     "cameraSau": "Chính 48 MP & Phụ 8 MP, 5 MP",
     "ram": "4 GB",
     "rom": "64 GB",
-    "giaBan": 7600000,
+    "giaBan": 7000,
     "hinhAnh": "./img/meizuphone.jpg"
   },
 
@@ -34,7 +34,7 @@
     "cameraTruoc": "7 MP",
     "ram": "4 GB",
     "rom": "64 GB",
-    "giaBan": 27000000,
+    "giaBan": 20000,
     "hinhAnh": "./img/applephone.jpg"
   }
 ]

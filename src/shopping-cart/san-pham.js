@@ -5,6 +5,10 @@ export default class SanPham extends Component {
     const { productProps, getDetailProduct } = this.props;
     getDetailProduct(productProps);
   };
+  handleAddProductToCart = () => {
+    const { productProps, addProductToCart } = this.props;
+    addProductToCart(productProps);
+  };
   render() {
     const { hinhAnh, tenSP } = this.props.productProps;
     return (
@@ -19,7 +23,7 @@ export default class SanPham extends Component {
             >
               Chi tiết
             </button>
-            <button className="btn btn-danger">Thêm giỏ hàng</button>
+            <button className="btn btn-danger" onClick={this.handleAddProductToCart}>Thêm giỏ hàng</button>
           </div>
         </div>
       </div>

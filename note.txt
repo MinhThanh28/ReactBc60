@@ -32,4 +32,11 @@ Buổi 3:
 
 - Comunicate:
     + props: truyền dât từ component cha => component con 
-    
+    + lifting state up: truyền data từ component con => cha 
+
+Buổi 4:
+
+    - shopping cart 
+    - user management
+Buổi 5:
+    - form 

@@ -1,5 +1,6 @@
 import "./App.css";
-import LiftingStateUpCart from "./shopping-cart";
+// import LiftingStateUpCart from "./shopping-cart";
+import Home from "./user-managment";
 // import Comunicate from './communicate';
 // import ExampleCar from './example-car';
 // import ListKeys from './list-key';
@@ -23,7 +24,8 @@ function App() {
       {/* <ExampleCar /> */}
       {/* <ListKeys /> */}
       {/* <Comunicate /> */}
-      <LiftingStateUpCart />
+      {/* <LiftingStateUpCart /> */}
+      <Home />
     </>
   );
 }
